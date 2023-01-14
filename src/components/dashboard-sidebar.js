@@ -18,27 +18,27 @@ import { NavItem } from "./nav-item";
 
 const items = [
   {
-    href: "/jikl/",
+    href: "/nsp/",
     icon: <ChartBarIcon fontSize="small" />,
     title: "Manager Dashboard",
   },
   {
-    href: "/jikl/register",
+    href: "/nsp/register",
     icon: <UserAddIcon fontSize="small" />,
     title: "My Workspace",
   },
   {
-    href: "/jikl/404",
+    href: "/nsp/404",
     icon: <XCircleIcon fontSize="small" />,
     title: "Create New NSP",
   },
   {
-    href: "/jikl/customers",
+    href: "/nsp/customers",
     icon: <UsersIcon fontSize="small" />,
     title: "My Team",
   },
   {
-    href: "/jikl/products",
+    href: "/nsp/products",
     icon: <ShoppingBagIcon fontSize="small" />,
     title: "Documents",
   },
@@ -48,7 +48,7 @@ const items = [
     title: 'Manager View'
   },*/
   {
-    href: "/jikl/account",
+    href: "/nsp/account",
     icon: <UserIcon fontSize="small" />,
     title: "Account",
   },
@@ -58,7 +58,7 @@ const items = [
     title: 'Settings'
   },*/
   {
-    href: "/jikl/login",
+    href: "/nsp/login",
     icon: <LockIcon fontSize="small" />,
     title: "Login",
   },
