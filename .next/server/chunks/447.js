@@ -168,7 +168,7 @@ const DashboardNavbar = (props)=>{
                             width: 40,
                             ml: 1
                         },
-                        src: "/static/images/avatars/avatar_1.png",
+                        src: "./static/images/avatars/avatar_1.png",
                         children: /*#__PURE__*/ jsx_runtime_.jsx(UserCircle, {
                             fontSize: "small"
                         })
