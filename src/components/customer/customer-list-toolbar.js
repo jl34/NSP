@@ -42,7 +42,7 @@ export const CustomerListToolbar = (props) => (
           Export
         </Button>
         <a
-          href="http://localhost:3000/404"
+          href="https://jl34.github.io/nsp/404"
           passHref
         >
           <Button

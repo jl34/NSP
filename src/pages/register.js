@@ -5,10 +5,9 @@ import { AccountDash2 } from '../components/account/account-dashboard2';
 import { AccountDash3 } from '../components/account/account-dashboard3';
 import { Todo1 } from '../components/account/account-todo';
 import { DashboardLayout } from '../components/dashboard-layout';
-import AccountProgress from 'src/components/account/account-progress';
-import LatestTasks from 'src/components/account/account-mytasks'; 
-import { AccountProgress1 } from '../components/account/account-progress1';
-import BasicTable from 'src/components/account/account-projects'; 
+import AccountProgress from '../components/account/account-progress';
+import LatestTasks from '../components/account/account-mytasks'; 
+import BasicTable from '../components/account/account-projects'; 
 
 
 const Dashboard = () => (

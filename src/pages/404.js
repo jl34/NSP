@@ -4,13 +4,13 @@ import { DashboardLayout } from "../components/dashboard-layout";
 import { SettingsNotifications } from "../components/settings/settings-notifications";
 import { SettingsPassword } from "../components/settings/settings-password";
 import { SettingsNotifications2 } from "../components/settings/settings-notifications";
-import { SettingsFinancials } from "src/components/settings/settings-financials";
-import { SettingsMembership } from "src/components/settings/settings-Membership";
-import { FinalDealPoints } from "src/components/settings/settings-FinalDealPoints";
-import { ReviewApproval } from "src/components/settings/settings-reviewapproval";
-import { FinancialsChart } from "src/components/settings/financials-table";
-import { SettingsDatagrid } from "src/components/settings/settings-datagrid";
-import { SettingsTop } from "src/components/settings/settings-top";
+import { SettingsFinancials } from "../components/settings/settings-financials";
+import { SettingsMembership } from "../components/settings/settings-Membership";
+import { FinalDealPoints } from "../components/settings/settings-FinalDealPoints";
+import { ReviewApproval } from "../components/settings/settings-reviewapproval";
+import { FinancialsChart } from "../components/settings/financials-table";
+import { SettingsDatagrid } from "../components/settings/settings-datagrid";
+import { SettingsTop } from "../components/settings/settings-top";
 
 const Settings = () => (
   <>

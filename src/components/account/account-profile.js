@@ -15,7 +15,7 @@ const user = {
   country: 'USA',
   jobTitle: 'Senior Network Contract Manager',
   name: 'Jennifer Luu',
-  timezone: 'Manager: Deborah Koubek'
+  timezone: 'Manager: Jennifer Luu'
 };
 
 export const AccountProfile = (props) => (

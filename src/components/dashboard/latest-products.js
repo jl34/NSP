@@ -19,31 +19,31 @@ const products = [
   {
     id: uuid(),
     name: 'Network Strategic Planner Template',
-    imageUrl: '/static/images/products/file.png',
+    imageUrl: './static/images/products/file.png',
     updatedAt: subHours(Date.now(), 2)
   },
   {
     id: uuid(),
     name: 'Total Cost of Care',
-    imageUrl: '/static/images/products/file.png',
+    imageUrl: './static/images/products/file.png',
     updatedAt: subHours(Date.now(), 2)
   },
   {
     id: uuid(),
     name: 'Enloe NSP',
-    imageUrl: '/static/images/products/file.png',
+    imageUrl: './static/images/products/file.png',
     updatedAt: subHours(Date.now(), 3)
   },
   {
     id: uuid(),
     name: 'Stanford NSP',
-    imageUrl: '/static/images/products/file.png',
+    imageUrl: './static/images/products/file.png',
     updatedAt: subHours(Date.now(), 5)
   },
   {
     id: uuid(),
     name: 'Providence LA NSP',
-    imageUrl: '/static/images/products/file.png',
+    imageUrl: './static/images/products/file.png',
     updatedAt: subHours(Date.now(), 9)
   }
 ];

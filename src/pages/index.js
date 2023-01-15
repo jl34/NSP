@@ -10,7 +10,6 @@ import { TotalProfit } from '../components/dashboard/total-profit';
 import { TrafficByDevice } from '../components/dashboard/traffic-by-device';
 import { DashboardLayout } from '../components/dashboard-layout';
 import { Typography } from '@mui/material';
-import LatestNews from 'src/components/dashboard/latest-news';
 
 const Dashboard = () => (
   <>
