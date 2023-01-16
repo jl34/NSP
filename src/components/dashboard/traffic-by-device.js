@@ -1,8 +1,6 @@
 import { Doughnut } from 'react-chartjs-2';
 import { Box, Card, CardContent, CardHeader, Divider, Typography, useTheme } from '@mui/material';
-import LaptopMacIcon from '@mui/icons-material/LaptopMac';
-import PhoneIcon from '@mui/icons-material/Phone';
-import TabletIcon from '@mui/icons-material/Tablet';
+
 
 export const TrafficByDevice = (props) => {
   const theme = useTheme();
@@ -46,19 +44,16 @@ export const TrafficByDevice = (props) => {
     {
       title: 'Has Completed',
       value: 63,
-      icon: LaptopMacIcon,
       color: '#66CDAA'
     },
     {
       title: 'In Progress',
       value: 15,
-      icon: TabletIcon,
       color: '#DAA520'
     },
     {
       title: 'Not Started',
       value: 23,
-      icon: PhoneIcon,
       color: '#e53935'
     }
   ];
