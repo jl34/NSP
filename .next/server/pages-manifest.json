@@ -5,9 +5,9 @@
   "/customers": "pages/customers.html",
   "/login": "pages/login.html",
   "/products": "pages/products.html",
-  "/404": "pages/404.html",
+  "/_error": "pages/_error.js",
   "/settings": "pages/settings.html",
   "/": "pages/index.html",
-  "/register": "pages/register.html",
-  "/_error": "pages/_error.js"
+  "/404": "pages/404.html",
+  "/register": "pages/register.html"
 }
