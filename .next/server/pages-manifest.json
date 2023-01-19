@@ -1,13 +1,13 @@
 {
-  "/_error": "pages/_error.js",
   "/_app": "pages/_app.js",
-  "/404": "pages/404.html",
   "/_document": "pages/_document.js",
-  "/": "pages/index.html",
-  "/customers": "pages/customers.html",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html",
+  "/account": "pages/account.html",
   "/login": "pages/login.html",
+  "/customers": "pages/customers.html",
+  "/": "pages/index.html",
   "/products": "pages/products.html",
-  "/register": "pages/register.html",
   "/settings": "pages/settings.html",
-  "/account": "pages/account.html"
+  "/register": "pages/register.html"
 }
