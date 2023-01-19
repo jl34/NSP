@@ -1,8 +1,8 @@
 import * as React from 'react';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
-//import { DataGrid } from '@mui/x-data-grid';
-import { DataGrid } from '/Users/Jennifer/Visual Studio/nsp/src/x-data-grid';
+import { DataGrid } from '@mui/x-data-grid';
+//import { DataGrid } from '/Users/Jennifer/Visual Studio/nsp/src/x-data-grid';
 
 const columns = [
   { field: 'id', headerName: 'ID', width: 100 },

@@ -3,7 +3,7 @@ exports.id = 447;
 exports.ids = [447];
 exports.modules = {
 
-/***/ 6447:
+/***/ 46447:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 
@@ -13,27 +13,27 @@ __webpack_require__.d(__webpack_exports__, {
 });
 
 // EXTERNAL MODULE: external "react/jsx-runtime"
-var jsx_runtime_ = __webpack_require__(997);
+var jsx_runtime_ = __webpack_require__(20997);
 // EXTERNAL MODULE: external "react"
-var external_react_ = __webpack_require__(6689);
+var external_react_ = __webpack_require__(16689);
 // EXTERNAL MODULE: external "@mui/material"
-var material_ = __webpack_require__(5692);
+var material_ = __webpack_require__(65692);
 // EXTERNAL MODULE: external "@mui/material/styles"
-var styles_ = __webpack_require__(8442);
+var styles_ = __webpack_require__(18442);
 // EXTERNAL MODULE: external "prop-types"
 var external_prop_types_ = __webpack_require__(580);
 var external_prop_types_default = /*#__PURE__*/__webpack_require__.n(external_prop_types_);
 // EXTERNAL MODULE: external "@emotion/styled"
-var styled_ = __webpack_require__(1480);
+var styled_ = __webpack_require__(81480);
 var styled_default = /*#__PURE__*/__webpack_require__.n(styled_);
 // EXTERNAL MODULE: external "@mui/icons-material/Menu"
-var Menu_ = __webpack_require__(3365);
+var Menu_ = __webpack_require__(63365);
 var Menu_default = /*#__PURE__*/__webpack_require__.n(Menu_);
 // EXTERNAL MODULE: external "@mui/icons-material/Search"
-var Search_ = __webpack_require__(8017);
+var Search_ = __webpack_require__(38017);
 var Search_default = /*#__PURE__*/__webpack_require__.n(Search_);
 // EXTERNAL MODULE: external "@mui/material/utils"
-var utils_ = __webpack_require__(7077);
+var utils_ = __webpack_require__(57077);
 ;// CONCATENATED MODULE: ./src/icons/bell.js
 
 
@@ -183,12 +183,12 @@ DashboardNavbar.propTypes = {
 };
 
 // EXTERNAL MODULE: ./node_modules/next/link.js
-var next_link = __webpack_require__(1664);
+var next_link = __webpack_require__(41664);
 var link_default = /*#__PURE__*/__webpack_require__.n(next_link);
 // EXTERNAL MODULE: external "next/router"
-var router_ = __webpack_require__(1853);
+var router_ = __webpack_require__(71853);
 // EXTERNAL MODULE: external "@mui/icons-material/OpenInNew"
-var OpenInNew_ = __webpack_require__(2596);
+var OpenInNew_ = __webpack_require__(42596);
 var OpenInNew_default = /*#__PURE__*/__webpack_require__.n(OpenInNew_);
 ;// CONCATENATED MODULE: ./src/icons/chart-bar.js
 
