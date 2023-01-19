@@ -4,7 +4,7 @@ import { Box, Card, CardContent, CardHeader, Divider, Typography, useTheme } fro
 //import {Chart, ArcElement, LineController, LineElement, PointElement, LinearScale, Title} from 'chart.js';
 //import 'chart.js/auto';
 
-//Chart.register(LineController, LineElement, PointElement, LinearScale, Title);
+Chart.register(Doughnut);
 
 export const TrafficByDevice = (props) => {
   const theme = useTheme();
