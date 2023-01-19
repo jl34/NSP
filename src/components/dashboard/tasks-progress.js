@@ -18,7 +18,7 @@ export const TasksProgress = (props) => (
             gutterBottom
             variant="overline"
           >
-            NSP PROGRESS
+            TOTAL NSP PROGRESS
           </Typography>
           <Typography
             color="textPrimary"
