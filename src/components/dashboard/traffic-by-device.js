@@ -1,10 +1,8 @@
 import { Doughnut } from 'react-chartjs-2';
 //import { Doughnut } from '/Users/Jennifer/Visual Studio/nsp/src/react-chartjs-2';
 import { Box, Card, CardContent, CardHeader, Divider, Typography, useTheme } from '@mui/material';
-//import {Chart, ArcElement, LineController, LineElement, PointElement, LinearScale, Title} from 'chart.js';
 //import 'chart.js/auto';
 
-Chart.register(Doughnut);
 
 export const TrafficByDevice = (props) => {
   const theme = useTheme();
