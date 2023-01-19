@@ -99,7 +99,7 @@ export const Sales = (props) => {
         <Box
           sx={{
             height: 400,
-            position: 'relative'
+            position: 'relative',
             imageURL: '/Users/Jennifer/Visual Studio/nsp/src/icons/BarChart.png'
           }}
         >
