@@ -3,10 +3,11 @@ import { Bar } from 'react-chartjs-2';
 import { Box, Button, Card, CardContent, CardHeader, Divider, useTheme } from '@mui/material';
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 import ArrowRightIcon from '@mui/icons-material/ArrowRight';
-import {BarController, BarElement, CategoryScale, LinearScale, ArcElement} from 'chart.js';
-import Chart from 'chart.js';
+//import {BarController, BarElement, CategoryScale, LinearScale, ArcElement} from 'chart.js';
+//import Chart from 'chart.js';
+import Chart from 'chart.js/auto';
 
-Chart.register(ArcElement, BarController, BarElement, CategoryScale, LinearScale);
+//Chart.register(ArcElement, BarController, BarElement, CategoryScale, LinearScale);
 
 export const Sales = (props) => {
   const theme = useTheme();
