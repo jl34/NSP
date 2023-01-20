@@ -1,4 +1,5 @@
-import React from 'react';
+import { React } from 'react';
+import useTheme from '@mui/material';
 import { Chart as ChartJS, ArcElement, Tooltip, Legend } from 'chart.js';
 import { Bar } from 'react-chartjs-2';
 //import { Bar } from '/Users/Jennifer/Visual Studio/nsp/src/react-chartjs-2';
