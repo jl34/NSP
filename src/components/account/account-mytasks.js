@@ -56,6 +56,7 @@ export default function LatestTasks() {
             Open Negotiations
       </Typography>
       <DataGrid
+        autoHeight
         rows={rows}
         columns={columns}
         pageSize={5}

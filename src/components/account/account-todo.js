@@ -9,7 +9,7 @@ import Box from '@mui/material/Box';
 export function Todo1() {
   return (
     <Box 
-    sx={{ height: 400, width: '22%', bgcolor: 'background.paper', boxShadow: 1, borderRadius: 2, p: 2, pt: 2}}>
+    sx={{ height: 400, width: '30%', bgcolor: 'background.paper', boxShadow: 1, borderRadius: 2, p: 2, pt: 2}}>
     <FormGroup>
         <Typography
           color="textSecondary" 
