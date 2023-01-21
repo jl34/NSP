@@ -8,7 +8,7 @@ import { DashboardLayout } from '../components/dashboard-layout';
 import AccountProgress from '../components/account/account-progress';
 import LatestTasks from '../components/account/account-mytasks'; 
 import BasicTable from '../components/account/account-projects'; 
-
+import { ProviderTable } from '../components/account/account-providertable';
 
 const Dashboard = () => (
 
@@ -75,8 +75,8 @@ const Dashboard = () => (
           <Todo1 />
           <AccountProgress />
            <div style={{padding: 8}}></div>
-          <LatestTasks />
-           <div style={{padding: 8}}></div>
+          <ProviderTable />
+
         </Grid>
       </Container>
     </Box>
