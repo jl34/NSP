@@ -1,13 +1,6 @@
 {
-  "/_error": "pages/_error.js",
-  "/404": "pages/404.html",
-  "/_document": "pages/_document.js",
   "/_app": "pages/_app.js",
-  "/": "pages/index.html",
-  "/account": "pages/account.html",
-  "/register": "pages/register.html",
-  "/login": "pages/login.html",
-  "/customers": "pages/customers.html",
-  "/products": "pages/products.html",
-  "/settings": "pages/settings.html"
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js"
 }

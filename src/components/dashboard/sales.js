@@ -1,11 +1,7 @@
-//import { Chart as ChartJS, ArcElement, Tooltip, Legend } from 'chart.js';
-import { Bar } from 'react-chartjs-2';
-//import { Bar } from '/Users/Jennifer/Visual Studio/nsp/src/react-chartjs-2';
+//import { Bar } from 'react-chartjs-2';
 import { Box, Button, Card, CardContent, CardHeader, Divider, useTheme } from '@mui/material';
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 import ArrowRightIcon from '@mui/icons-material/ArrowRight';
-
-//ChartJS.register(ArcElement, Tooltip, Legend);
 
 
 export const Sales = (props) => {
@@ -107,11 +103,12 @@ export const Sales = (props) => {
             position: 'relative'
           }}
         >
-           <Bar
-            data={data}
-            options={options}
-            
-          /> 
+        <img src={'./static/images/products/BarChart.png'}
+         style={{
+          height: 432,
+          width: 950
+        }}
+        />
         </Box>
       </CardContent>
       <Divider />

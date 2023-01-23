@@ -1,10 +1,6 @@
-//import { Chart as ChartJS, ArcElement, Tooltip, Legend } from 'chart.js';
 import { Doughnut } from 'react-chartjs-2';
-//import { Doughnut } from '/Users/Jennifer/Visual Studio/nsp/src/react-chartjs-2';
 import { Box, Card, CardContent, CardHeader, Divider, Typography, useTheme } from '@mui/material';
-//import 'chart.js/auto';
 
-//ChartJS.register(ArcElement, Tooltip, Legend);
 
 
 export const TrafficByDevice = (props) => {
@@ -74,10 +70,12 @@ export const TrafficByDevice = (props) => {
             position: 'relative'
           }}
         >
-          <Doughnut
-            data={data}
-            options={options}
-          />
+        <img src={'./static/images/products/Doughnut.png'}
+         style={{
+          height: 325,
+          width: 460
+        }}
+        />
         </Box>
         <Box
           sx={{

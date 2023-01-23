@@ -15,11 +15,10 @@ import {
   TextField,
   Tooltip, 
   FormControlLabel,
-  Checkbox
+  Checkbox,
+  Pagination
 } from '@mui/material';
-import ArrowRightIcon from '@mui/icons-material/ArrowRight';
-import { SeverityPill } from '../severity-pill';
-import { fontWeight } from '@mui/system';
+
 
  const orders = [
   {
@@ -103,6 +102,7 @@ import { fontWeight } from '@mui/system';
         </Table>
       </Box>
     </PerfectScrollbar>
+    <Pagination count={3} size="small" />
     <Box
       sx={{
         display: 'flex',
