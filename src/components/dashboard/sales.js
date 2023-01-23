@@ -108,7 +108,7 @@ export const Sales = (props) => {
           height: 432,
           width: 820
         }}
-        sx={{display: 'flex', objectPosition: 'center'}}
+        sx={{display: 'flex'}}
         />
         </Box>
       </CardContent>
