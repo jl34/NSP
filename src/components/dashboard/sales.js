@@ -103,11 +103,12 @@ export const Sales = (props) => {
             position: 'relative'
           }}
         >
-        <img src={'/Users/Jennifer/Visual Studio/nsp/public/static/images/products/BarChart2.png'}
+        <img src={'./static/images/products/BarChart2.png'}
          style={{
           height: 432,
           width: 800
         }}
+        sx={{display: 'flex'}}
         />
         </Box>
       </CardContent>
