@@ -1,6 +1,6 @@
 {
-  "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
+  "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/account": "pages/account.html",
   "/customers": "pages/customers.html",
@@ -8,6 +8,6 @@
   "/": "pages/index.html",
   "/products": "pages/products.html",
   "/login": "pages/login.html",
-  "/register": "pages/register.html",
-  "/settings": "pages/settings.html"
+  "/settings": "pages/settings.html",
+  "/register": "pages/register.html"
 }
