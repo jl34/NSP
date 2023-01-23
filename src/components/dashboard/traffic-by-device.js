@@ -75,7 +75,6 @@ export const TrafficByDevice = (props) => {
           height: 300,
           width: 415
          }}
-         sx={{display: 'flex'}}
         />
         </Box>
         <Box

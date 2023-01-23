@@ -106,7 +106,7 @@ export const Sales = (props) => {
         <img src={'/Users/Jennifer/Visual Studio/nsp/public/static/images/products/BarChart2.png'}
          style={{
           height: 432,
-          width: 820
+          width: 800
         }}
         />
         </Box>
