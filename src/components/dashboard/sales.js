@@ -106,7 +106,7 @@ export const Sales = (props) => {
         <img src={'./static/images/products/BarChart2.png'}
          style={{
           height: 432,
-          width: 1050
+          width: 1150
         }}
         />
         </Box>
