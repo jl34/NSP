@@ -72,9 +72,13 @@ export const TrafficByDevice = (props) => {
         >
         <img src={'./static/images/products/Doughnut.png'}
          style={{
-          height: 300,
-          width: 415
+          height: 295,
+          width: 407
          }}
+         sx={{
+          display: 'flex',
+          justifyContent: 'center'
+        }}
         />
         </Box>
         <Box

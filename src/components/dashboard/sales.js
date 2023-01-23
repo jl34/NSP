@@ -106,9 +106,8 @@ export const Sales = (props) => {
         <img src={'./static/images/products/BarChart2.png'}
          style={{
           height: 432,
-          width: 800
+          width: 500
         }}
-        sx={{display: 'flex'}}
         />
         </Box>
       </CardContent>
