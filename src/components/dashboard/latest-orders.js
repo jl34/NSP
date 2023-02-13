@@ -150,6 +150,7 @@ export const LatestOrders = (props) => (
       }}
     >
       <Button
+        href="/customers" passHref
         color="primary"
         endIcon={<ArrowRightIcon fontSize="small" />}
         size="small"

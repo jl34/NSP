@@ -92,7 +92,8 @@ export const LatestProducts = (props) => (
         p: 2
       }}
     >
-      <Button
+      <Button 
+        href="/products" passHref
         color="primary"
         endIcon={<ArrowRightIcon />}
         size="small"
